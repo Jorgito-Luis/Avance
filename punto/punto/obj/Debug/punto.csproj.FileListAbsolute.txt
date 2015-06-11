@@ -1,0 +1,31 @@
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\punto.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\punto.pdb
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\EntityFramework.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\Microsoft.Web.Infrastructure.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\Newtonsoft.Json.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Net.Http.Formatting.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Helpers.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.WebHost.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Mvc.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Razor.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Deployment.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Razor.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\EntityFramework.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\Newtonsoft.Json.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Net.Http.Formatting.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Helpers.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Http.WebHost.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Mvc.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.Razor.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Deployment.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\bin\System.Web.WebPages.Razor.xml
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.dll
+D:\Sqlyog.Enterprise.v7.14.Incl.Keymaker-CORE\PuntoDeEncuentro\punto\punto\obj\Debug\punto.pdb
+E:\Web II\punto\punto\obj\Debug\punto.csprojResolveAssemblyReference.cache
+E:\Web II\punto\punto\obj\Debug\punto.dll
+E:\Web II\punto\punto\obj\Debug\punto.pdb
